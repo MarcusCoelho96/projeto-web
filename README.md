@@ -1,4 +1,3 @@
-# História do Mascote do Android
+# A Historia do mascote do Android
 
-Melhorias do repositório: Desafio01_HTML5-CSS3
- 
+Este site é a melhoria assistida do meu repositório: Desafio01_HTML5-CSS3
